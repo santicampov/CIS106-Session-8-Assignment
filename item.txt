@@ -1,0 +1,15 @@
+Cleats
+11
+65
+Helmet
+15
+45
+Gloves
+22
+7
+Uniforms
+14
+40
+Extras
+10
+2

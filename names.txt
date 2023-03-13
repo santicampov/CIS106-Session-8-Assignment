@@ -1,0 +1,8 @@
+Perez
+125000
+Michaels
+75000
+Jones
+48000
+Jackson
+98000
